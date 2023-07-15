@@ -1,0 +1,14 @@
+************Ticket**************
+        Name : akhit
+        Age : 23
+        Gender : male
+                        
+        Train Details:----------
+        Name : vande bharat
+        Destination : jodhpur
+        Origin : Goa
+        Class : 2
+        Day of Departure : Saturday
+                        
+        Price:---------------
+        Your Total Bill is Rs1000

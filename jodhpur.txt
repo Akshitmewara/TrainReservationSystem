@@ -1,0 +1,31 @@
+************Ticket - Akshit**************
+        Name : Akshit
+        Age : 23
+        Gender : Male
+                        
+        Train Details:----------
+        Name : vande bharat
+        Destination : jodhpur
+        Origin : Goa
+        Class : 2
+        Day of Departure : Saturday
+                        
+        Price:---------------
+        Your Total Bill is Rs1000
+        
+        ************Ticket - dev**************
+        Name : dev
+        Age : 34
+        Gender : Male
+                        
+        Train Details:----------
+        Name : vande bharat
+        Destination : jodhpur
+        Origin : Goa
+        Class : 2
+        Day of Departure : Saturday
+                        
+        Price:---------------
+        Your Total Bill is Rs1000
+        
+        
